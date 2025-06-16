@@ -1,7 +1,3 @@
-#Developed By : Suryaveer from IIT INDORE
-#UserName: @ayrusreev
-#GitHub : http://www.github.com/surya-veer
-
 import sys
 from PyQt4.QtCore import *
 from PyQt4.QtGui import *
